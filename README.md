@@ -21,6 +21,7 @@ Second, In statistics, the mean and the standard deviation are used to describe 
   if the score is less than that but still higher than the mean plus half a standard deviation, then the student should get a B and so on. 
   Finally, you should print the grades all in one line separated by commas. 
   
+    Example Interaction:
      > Enter Exam Scores:
       < 52,63,54,77,65,36,46,27
      > Mean: 52.50 StdDev: 15.14
